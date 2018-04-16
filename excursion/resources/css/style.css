@@ -1,0 +1,40 @@
+/*Header and Title*/
+h1{
+  color: white;
+  font-family: Verdana;
+  font-weight: Normal;
+  font-size: 50px;
+  color: white:inherit;
+  text-align: center;
+}
+/*Background*/
+body{
+  background-color: black;
+  text-align: center;
+}
+/*download links*/
+#Download #download2{
+  color: aquamarine;
+  text-align: center;
+  font-size: 16px;
+}
+/*Picture Header and Title*/
+h2{
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+/**/
+#Excursion1{
+  font-family: Verdana;
+  font-size: 21px;
+  color: grey;
+}
+/*copyright*/
+#copyright{
+  font-family: Verdana;
+  font-size: 21px;
+  color: grey;
+  text-align: right;
+}
